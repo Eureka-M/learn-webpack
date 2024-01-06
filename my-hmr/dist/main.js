@@ -32,7 +32,7 @@ if (true) {
   \**********************/
 /***/ ((module) => {
 
-module.exports = 'title1'
+module.exports = 'title2'
 
 /***/ })
 
@@ -97,7 +97,7 @@ module.exports = 'title1'
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("94f12c4ccca97a633e5c")
+/******/ 		__webpack_require__.h = () => ("180e5e9ab2e6812eadd7")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
